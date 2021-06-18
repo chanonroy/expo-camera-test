@@ -1,0 +1,12 @@
+{
+  "name": "camera-size-test",
+  "displayName": "camera-size-test",
+  "expo": {
+    "name": "camera-size-test",
+    "slug": "camera-size-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
